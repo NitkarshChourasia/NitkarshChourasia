@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NitkarshChourasia)](https://git.io/streak-stats)
+![trophy](https://github-profile-trophy.vercel.app/?username=NitkarshChourasia)
 <!--
 **NitkarshChourasia/NitkarshChourasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
