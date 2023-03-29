@@ -1,3 +1,4 @@
+ <!-- Fisher-Yates -->
 <div id="slider">
   <img src="assets/github-header-image(1).png">
   <img src="assets/github-header-image(2).png">
@@ -12,6 +13,8 @@
 
 <script>
   var slideIndex = 0;
+  var slideOrder = shuffle(Array.from(Array(9).keys()));
+
   showSlides();
 
   function showSlides() {
@@ -23,11 +26,25 @@
     slideIndex++;
     if (slideIndex > slides.length) {
       slideIndex = 1;
+      slideOrder = shuffle(slideOrder);
     }
-    slides[slideIndex - 1].style.display = "block";
+    slides[slideOrder[slideIndex - 1]].style.display = "block";
     setTimeout(showSlides, 2000); // Change image every 2 seconds
   }
+
+  function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex;
+    while (0 !== currentIndex) {
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+    return array;
+  }
 </script>
+
 
 
 # 💫 About Me:
