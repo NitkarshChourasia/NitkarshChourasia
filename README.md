@@ -1,36 +1,34 @@
+<div id="slider">
+  <img src="assets/github-header-image(1).png">
+  <img src="assets/github-header-image(2).png">
+  <img src="assets/github-header-image(3).png">
+  <img src="assets/github-header-image(4).png">
+  <img src="assets/github-header-image(5).png">
+  <img src="assets/github-header-image(6).png">
+  <img src="assets/github-header-image(7).png">
+  <img src="assets/github-header-image(8).png">
+  <img src="assets/github-header-image.png">
+</div>
+
 <script>
-  function randomImage() {
-    var images = [
-        'assets/github-header-image(1).png',
-        'assets/github-header-image(2).png',
-        'assets/github-header-image(3).png',
-        'assets/github-header-image(4).png',
-        'assets/github-header-image(5).png',
-        'assets/github-header-image(6).png',
-        'assets/github-header-image(7).png',
-        'assets/github-header-image(8).png',
-      // add all image paths here
-    ];
-    var index = Math.floor(Math.random() * images.length);
-    var image = document.createElement('img');
-    image.src = images[index];
-    document.body.appendChild(image);
+  var slideIndex = 0;
+  showSlides();
+
+  function showSlides() {
+    var i;
+    var slides = document.getElementById("slider").getElementsByTagName("img");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) {
+      slideIndex = 1;
+    }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
   }
-  setInterval(randomImage, 9000); // Change image every 5 seconds
 </script>
-<div id="image-container"></div>
-<style>
-  #image-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 300px; /* Change this value to adjust the image height */
-  }
-  img {
-    max-width: 100%;
-    max-height: 100%;
-  }
-</style>
+
 
 # 💫 About Me:
 I am currently working on myself.<br>Would like to take myself to the next level.<br>The greatest love I do is with myself.<br>I love taking things to the next level.
