@@ -1,35 +1,103 @@
-<svg width="100%" height="300" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <![CDATA[
-      <!DOCTYPE html>
-      <html>
-        <head>
-          <title>Slider Example</title>
-        </head>
-        <body>
-          <h1>Slider Example</h1>
-          <script type="text/javascript" src="slider.js"></script>
-          <style>
-            img {
-              max-width: 100%;
-              height: auto;
-            }
-          </style>
-          <div id="slider">
-            <img src="assets/github-header-image(1).png">
-            <img src="assets/github-header-image(2).png">
-            <img src="assets/github-header-image(3).png">
-            <img src="assets/github-header-image(4).png">
-            <img src="assets/github-header-image(5).png">
-            <img src="assets/github-header-image(6).png">
-            <img src="assets/github-header-image(7).png">
-            <img src="assets/github-header-image(8).png">
-            <img src="assets/github-header-image.png">
-          </div>
-        </body>
-      </html>
-      ]]>
-    </div>
-  </foreignObject>
-</svg>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    /* Position the image container */
+    .slider {
+      position: relative;
+    }
+
+    /* Hide the images by default */
+    .slider img {
+      display: none;
+    }
+
+    /* Add a dot for each image */
+    .dots {
+      text-align: center;
+    }
+
+    .dots span {
+      display: inline-block;
+      width: 10px;
+      height: 10px;
+      margin: 0 2px;
+      background-color: #bbb;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+
+    /* Add a background color to the active dot */
+    .dots .active {
+      background-color: #717171;
+    }
+  </style>
+</head>
+<body>
+
+<div class="slider" id="slider">
+  <svg width="100%" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <img src="assets/github-header-image(1).png" style="width:100%">
+        <img src="assets/github-header-image(2).png" style="width:100%">
+        <img src="assets/github-header-image(3).png" style="width:100%">
+        <img src="assets/github-header-image(4).png" style="width:100%">
+        <img src="assets/github-header-image(5).png" style="width:100%">
+        <img src="assets/github-header-image(6).png" style="width:100%">
+        <img src="assets/github-header-image(7).png" style="width:100%">
+        <img src="assets/github-header-image(8).png" style="width:100%">
+        <img src="assets/github-header-image.png" style="width:100%">
+      </div>
+    </foreignObject>
+  </svg>
+
+  <!-- Add dots below the slideshow -->
+  <div class="dots" style="margin-top: 10px;">
+    <span class="active"></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+
+<script>
+var slideIndex = 0;
+var slides = document.getElementById("slider").getElementsByTagName("img");
+var slideOrder = shuffle(Array.from(Array(slides.length).keys()));
+
+showSlides();
+
+function showSlides() {
+  for (var i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";
+  }
+  slideIndex = (slideIndex + 1) % slides.length;
+  for (var i = 0; i < slides.length; i++) {
+    slides[slideOrder[i]].style.display = (i == slideIndex) ? "block" : "none";
+  }
+  setTimeout(showSlides, 2000); // Change image every 2 seconds
+}
+
+function shuffle(array) {
+  var currentIndex = array.length, temporaryValue, randomIndex;
+  while (0 !== currentIndex) {
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex -= 1;
+    temporaryValue = array[currentIndex];
+    array[currentIndex] = array[randomIndex];
+    array[randomIndex] = temporaryValue;
+  }
+  return array;
+}
+</script>
