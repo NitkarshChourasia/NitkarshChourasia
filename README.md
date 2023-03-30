@@ -1,4 +1,4 @@
-[![Slider header images](https://nitkarshchourasia.github.io/NitkarshChourasia/slider.html)](https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/)
+<!-- [![Slider header images](https://nitkarshchourasia.github.io/NitkarshChourasia/slider.html)](https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/) -->
 
 
 # 💫 About Me:
