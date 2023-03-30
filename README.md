@@ -1,5 +1,5 @@
+<iframe src="https://nitkarshchourasia.github.io/NitkarshChourasia/slider.html" width="100%" height="300" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://NitkarshChourasia.github.io/NitkarshChourasia/slider.html" width="100%" height="300px"></iframe>
 
 
 # 💫 About Me:
