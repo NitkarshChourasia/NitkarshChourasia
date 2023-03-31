@@ -1,12 +1,20 @@
+
+
+
+
 <!-- [![Slider header images](https://nitkarshchourasia.github.io/NitkarshChourasia/slider.html)](https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/) -->
 
+
+<!-- Slowly slowly, make a theme based README.md file. Like there are still discreapancies, like a lot and lot them. Slowly with time, try to connect them -->
 
 # 💫 About Me:
 I am currently working on myself.<br>Would like to take myself to the next level.<br>The greatest love I do is with myself.<br>I love taking things to the next level.
 
 
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/" target="_blank">Download my CV.</a><br>
-<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Download my resume.</a>
+<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Download my resume.</a><br>
+<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details over the projects I worked.</a><br>
+<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details and lists about my skills.</a>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nitkarsh.chourasia/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitkarsh.chourasia/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitkarsh-chourasia-a32a21218/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@playnitkarsh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NitkarshChourasia/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Nitkarsh-Chourasia-1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/NitkarshC) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16444659/nitkarsh-chourasia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NitkarshC) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjZbPEyOT2M44rN4lq98kNQ) 
@@ -17,7 +25,7 @@ I am currently working on myself.<br>Would like to take myself to the next level
 ![](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+## myProjects :
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NitkarshChourasia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
