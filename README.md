@@ -5,7 +5,7 @@
 I am currently working on myself.<br>Would like to take myself to the next level.<br>The greatest love I do is with myself.<br>I love taking things to the next level.
 
 
-<a href="https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/" target="_blank">Download my CV.</a>
+<a href="https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/" target="_blank">Download my CV.</a><br>
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Download my resume.</a>
 
 ## 🌐 Socials:
