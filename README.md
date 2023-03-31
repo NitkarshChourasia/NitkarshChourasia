@@ -10,7 +10,7 @@
 # 💫 About Me:
 I am currently working on myself.<br>Would like to take myself to the next level.<br>The greatest love I do is with myself.<br>I love taking things to the next level.
 
-
+<!-- Learn to style the links, like there opening and closing and etc..., -->
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/" target="_blank">Download my CV.</a><br>
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Download my resume.</a><br>
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details over the projects I worked.</a><br>
@@ -25,7 +25,7 @@ I am currently working on myself.<br>Would like to take myself to the next level
 ![](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-## myProjects :
+# myProjects :
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NitkarshChourasia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -37,3 +37,5 @@ I am currently working on myself.<br>Would like to take myself to the next level
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+
+<!-- Made with ❤️ Nitkarsh -->
