@@ -14,7 +14,7 @@ I am currently working on myself.<br>Would like to take myself to the next level
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasiaWeb/" target="_blank">Download my CV.</a><br>
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Download my resume.</a><br>
 <a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details over the projects I worked.</a><br>
-<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details and lists about my skills.</a>
+<a href="https://nitkarshchourasia.github.io/NitkarshChourasia/iotpdf.pdf" target="_blank">Some details and lists about my skills.</a><br>
 [Testing](https://www.google.com/){: onclick="window.open(this.href,'_blank');return false;"}
 [GO!](http//:www.github.com/NitkarshChourasia/NitkarshChourasiaWeb/){:target="_blank" rel="noopener"}
 
