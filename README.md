@@ -34,29 +34,32 @@ I am currently working on myself.<br>Would like to take myself to the next level
 
 # Projects:
 
-## Project 1:
+### Project 1:
 #### Linux and windows auto github repository commiter.
 
-## Project 2:
+### Project 2:
 #### Github Repository Analyser
 
-# Project 3:
+### Project 3:
 #### Linux trash app.
 
-# Project 4:
+### Project 4:
 #### Blogging website.
 
-# Project 5:
+### Project 5:
 #### Ping Ball Game.
 
-# Project 6:
+### Project 6:
 #### Blogging website.
 
-# Project 7:
+### Project 7:
 #### Portfolio website.
 
-# Project 8:
+### Project 8:
 #### Building Arch Linux
+
+### Project 9:
+#### Edabit Website Scraper
 
 <!--
 ### 😂 Random Dev Meme
