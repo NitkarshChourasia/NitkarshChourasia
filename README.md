@@ -32,6 +32,32 @@ I am currently working on myself.<br>Would like to take myself to the next level
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+# Projects:
+
+## Project 1:
+#### Linux and windows auto github repository commiter.
+
+## Project 2:
+#### Github Repository Analyser
+
+# Project 3:
+#### Linux trash app.
+
+# Project 4:
+#### Blogging website.
+
+# Project 5:
+#### Ping Ball Game.
+
+# Project 6:
+#### Blogging website.
+
+# Project 7:
+#### Portfolio website.
+
+# Project 8:
+#### Building Arch Linux
+
 <!--
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
