@@ -41,3 +41,8 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![Visitor Count](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
 <!-- Add any attribution or credits if needed -->
 <!-- Made with ❤️ by Nitkarsh -->
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
