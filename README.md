@@ -28,6 +28,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
 
 <!-- Add your project details -->
 ## 🚀 Projects
