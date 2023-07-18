@@ -44,5 +44,5 @@ I am constantly striving to reach new heights in my personal and professional gr
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
