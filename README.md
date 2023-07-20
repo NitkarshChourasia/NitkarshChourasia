@@ -1,6 +1,7 @@
 <!-- Add your introduction or personal statement here -->
 # 💫 About Me
 I am constantly striving to reach new heights in my personal and professional growth. I prioritize self-improvement and love pushing boundaries to achieve excellence.
+[![Visitor's Count](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Add links to your CV, resume, project details, and skills -->
 ## 🌐 Socials
@@ -50,5 +51,3 @@ I am constantly striving to reach new heights in my personal and professional gr
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
-
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
