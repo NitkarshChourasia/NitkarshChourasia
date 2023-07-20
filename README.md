@@ -46,7 +46,7 @@ I am constantly striving to reach new heights in my personal and professional gr
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/carbon.svg" alt="Github Stats" />
 </p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
