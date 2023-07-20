@@ -1,7 +1,6 @@
 <!-- Add your introduction or personal statement here -->
 # 💫 About Me
 I am constantly striving to reach new heights in my personal and professional growth. I prioritize self-improvement and love pushing boundaries to achieve excellence.
-[![Visitor's Count](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Add links to your CV, resume, project details, and skills -->
 ## 🌐 Socials
@@ -39,6 +38,15 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!-- Add your own closing message -->
 ---
+[![Visitor Count](https://profile-counter.glitch.me/NitkarshChourasia/count.svg)
+[![Visitor's Count](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+
+---
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+<!-- Made with ❤️ Nitkarsh -->
+
 <!-- Add any attribution or credits if needed -->
 <!-- Made with ❤️ by Nitkarsh -->
 
@@ -51,4 +59,3 @@ I am constantly striving to reach new heights in my personal and professional gr
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
-[![Visitor Count](https://profile-counter.glitch.me/NitkarshChourasia/count.svg)
