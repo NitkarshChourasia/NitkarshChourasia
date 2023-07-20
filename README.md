@@ -51,4 +51,4 @@ I am constantly striving to reach new heights in my personal and professional gr
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
-![Visitor Count](https://profile-counter.glitch.me/NitkarshChourasia/count.svg)
+[![Visitor Count](https://profile-counter.glitch.me/NitkarshChourasia/count.svg)
