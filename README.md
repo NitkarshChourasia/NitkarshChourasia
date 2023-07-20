@@ -39,9 +39,12 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Add your own closing message -->
 ---
 [![Visitor Count](https://profile-counter.glitch.me/NitkarshChourasia/count.svg)
+---
 [![Visitor's Count](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+---
 
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
+---
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&icon=7&color=0)](https://visitcount.itsvg.in)
