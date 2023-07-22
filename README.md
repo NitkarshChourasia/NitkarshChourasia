@@ -1,3 +1,5 @@
+![Header Image](assets/github-header-image(8).png)
+
 <!-- Add your introduction or personal statement here -->
 # 💫 About Me
 I am constantly striving to reach new heights in my personal and professional growth. I prioritize self-improvement and love pushing boundaries to achieve excellence.
