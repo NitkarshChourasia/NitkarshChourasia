@@ -28,10 +28,6 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Add your GitHub stats and top languages -->
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
-<!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
-<img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="200" style="float: right;">
-<!-- Add any other text or content below the image -->
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
@@ -84,7 +80,9 @@ I am constantly striving to reach new heights in my personal and professional gr
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
-
+<!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
+<img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="10" style="float: right;">
+<!-- Add any other text or content below the image -->
 
 <!--### Some Meme's-->
 
