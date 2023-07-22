@@ -29,7 +29,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 <!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
-<img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="300">
+<img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="200" style="float: left;">
 <!-- Add any other text or content below the image -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)
