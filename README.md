@@ -74,15 +74,21 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
 
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
----
-<!-- 
+
+--- 
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
+
+
 <!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
+
 <img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="50" style="float: right;">
+
 <!-- Add any other text or content below the image -->
+
 
 <!--### Some Meme's--> -->
 
