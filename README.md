@@ -91,6 +91,14 @@ I am constantly striving to reach new heights in my personal and professional gr
 --- 
 
 
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Github Stats" />
+</p>
+
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
 
