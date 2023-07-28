@@ -3,7 +3,7 @@
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg" alt="Github Stats" />
 </p>
 
 
