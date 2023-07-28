@@ -1,5 +1,10 @@
 ![Header Image](assets/github-header-image(8).png)
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg.svg" alt="Github Stats" />
+</p>
+
+
 <!-- Add your introduction or personal statement here -->
 # 💫 About Me
 I am constantly striving to reach new heights in my personal and professional growth. I prioritize self-improvement and love pushing boundaries to achieve excellence.
