@@ -1,11 +1,11 @@
 ![Header Image](assets/github-header-image(8).png)
 
 
-
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg" alt="Github Stats" />
 </p>
-
+-->
 <!-- Can I add all this data into this svg file above???!, I want to add it. -->
 
 
@@ -83,13 +83,13 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
 
-
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
 
 --- 
-
+-->
 
 
 <p align="center">
