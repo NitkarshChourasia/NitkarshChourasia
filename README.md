@@ -48,6 +48,11 @@ I am constantly striving to reach new heights in my personal and professional gr
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1" alt="Recent Article 1"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/2" alt="Recent Article 2"></a> <br>
 
+### 📝 My Latest Blog Post in Medium
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"></a> <br>
+
 <!-- Add your project details -->
 ## 🚀 Projects
 <!-- Add details about your projects, such as descriptions, technologies used, and links to repositories or project pages -->
