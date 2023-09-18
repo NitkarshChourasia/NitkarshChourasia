@@ -42,12 +42,11 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
 
 <!-- My medium blogs -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0">
 ### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/2" alt="Recent Article 2"></a> <br>
-
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0">
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1">
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/2">
 ### 📝 My Latest Blog Post in Medium (TEST_)
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"></a>
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/1" alt="Recent Article 1"></a>
