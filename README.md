@@ -41,6 +41,9 @@ I am constantly striving to reach new heights in my personal and professional gr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
 
+<!-- My medium blogs -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
 <!-- Add your project details -->
 ## 🚀 Projects
 <!-- Add details about your projects, such as descriptions, technologies used, and links to repositories or project pages -->
