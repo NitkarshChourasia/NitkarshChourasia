@@ -1,4 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
+
+
 ![Header Image](assets/github-header-image(8).png)
+
 
 
 <!--
@@ -101,7 +105,6 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 
 
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
 
 
