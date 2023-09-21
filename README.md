@@ -114,5 +114,4 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 
 <!--### Some Meme's-->
-
-
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="marquee.svg" />
