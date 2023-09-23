@@ -2,10 +2,11 @@
 
 
 
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg" alt="Github Stats" />
 </p>
-
+-->
 <!-- Can I add all this data into this svg file above???!, I want to add it. -->
 
 
@@ -88,13 +89,13 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
 
-
+<!--
 <p align="center">
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
 </p>
 
 --- 
-
+-->
 
 
 <p align="center">
@@ -104,7 +105,8 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
+
+
 
 
 
@@ -119,5 +121,9 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 
 <!--### Some Meme's-->
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="marquee.svg" />
+<!-- View count -->
 
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
+<!-- End of document -->
