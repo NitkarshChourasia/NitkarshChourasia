@@ -139,12 +139,13 @@ Remniscing the Heartbreaks<br/>
 Perfection<br/>
 No Exercise<br/>
 Searching for the social bond or that special social bond connection on all over the Internet.<br/>
+<pre>
         Few Examples would be:<br/>
                 Reddit<br/>
                 Instagram<br/>
                 Xhamster<br/>
                 Tinder<br/><br/>
-                
+</pre>
 Chasing things  <br/>
 
 
