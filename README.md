@@ -130,7 +130,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 ### My Efficiency Bootlenecks:
 
-My Efficiency Bootlenecks:  
+My Efficiency Bootlenecks:<br/>
 Shorts<br/>
 Porn<br/>
 Masturbation<br/>
