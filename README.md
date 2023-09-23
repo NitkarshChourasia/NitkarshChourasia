@@ -129,22 +129,23 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- End of document -->
 
 ### My Efficiency Bootlenecks:
-My Efficiency Bootlenecks:
-Shorts
-Porn
-Masturbation
-Youtube Binge Watching and not applying the learnings and wisdoms.
-Remniscing the Heartbreaks
-Perfection
-No Exercise
-Searching for the social bond or that special social bond connection on all over the Internet.
-        Few Examples would be:
-                Reddit
-                Instagram
-                Xhamster
-                Tinder
+
+My Efficiency Bootlenecks:<br/>
+Shorts<br/>
+Porn<br/>
+Masturbation<br/>
+Youtube Binge Watching and not applying the learnings and wisdoms.<br/>
+Remniscing the Heartbreaks<br/>
+Perfection<br/>
+No Exercise<br/>
+Searching for the social bond or that special social bond connection on all over the Internet.<br/>
+        Few Examples would be:<br/>
+                Reddit<br/>
+                Instagram<br/>
+                Xhamster<br/>
+                Tinder<br/><br/>
                 
-Chasing things
+Chasing things  <br/>
 
 
 <!-- Finally End of Document -->
