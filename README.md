@@ -127,3 +127,24 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
 <!-- End of document -->
+
+### My Efficiency Bootlenecks:
+My Efficiency Bootlenecks:
+Shorts
+Porn
+Masturbation
+Youtube Binge Watching and not applying the learnings and wisdoms.
+Remniscing the Heartbreaks
+Perfection
+No Exercise
+Searching for the social bond or that special social bond connection on all over the Internet.
+        Few Examples would be:
+                Reddit
+                Instagram
+                Xhamster
+                Tinder
+                
+Chasing things
+
+
+<!-- Finally End of Document -->
