@@ -18,7 +18,8 @@ I am constantly striving to reach new heights in my personal and professional gr
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nitkarsh.chourasia.3/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitkarsh.chourasia/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitkarsh-chourasia-a32a21218/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/nitkarsh-chourasia-a32a21218/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@playnitkarsh)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/NitkarshChourasia/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Nitkarsh-Chourasia-1)
@@ -150,4 +151,5 @@ Few Examples would be:<br/>
 Chasing things  <br/>
 # Rate of Return?????!!! <br/>
 # Return on Investment?????!!! <br/>
+## To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__.
 <!-- Finally End of Document -->
