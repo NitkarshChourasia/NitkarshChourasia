@@ -1,0 +1,71 @@
+Languages, Frameworks and Tools
+- Vim
+- Visual Studio Code
+- Sublime
+- Pycharm
+- Git
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Primere Pro
+- Adboe Audition
+- Sony Vegas Pro
+- Linux
+- Sublime Text Editor
+- Atom
+- Terminal
+
+Actively Learning
+- Python
+- C#
+- Machine Learning
+- Linux
+
+
+Planning to Learn
+- Html
+- Css
+- Javascript
+
+
+Download my complete skills list?
+Things I learnt :
+How to burn a disk.
+How to partition a disk.
+How to connect a system through ssl.
+How to connect and manage a system through ssl.
+Excel
+Tool=Github
+Languages=MySql
+Languages=PSql
+Languages=pSql
+Whether you work with code on GitHub professionally, or you simply want to highlight
+your professional life, your GitHub profile is an excellent venue.
+Again, think about your in-person introduction, but this time, in a professional setting.
+How would you want to introduce yourself professionally? Here are some ideas.
+• Current employment info & responsibilities:
+e.g. 'I work with Adafruit.'
+e.g. 'I work at a Fortune 500 company designing children's toys.'
+• Past employment info & responsibilities:
+e.g. 'I previously worked in health care.'
+e.g. 'I managed an IT solution that optimized three global ERP instances.'
+• Professional projects you're involved with:
+e.g. 'I work on the CircuitPython project.'
+e.g. 'I write automation using Python for IoT-enabled devices.'
+• Skills & relevant topics you've cultivated through work:
+e.g. 'I am a successful community leader.'
+e.g. 'I have experience with microcontrollers.'
+e.g. 'I am an experienced developer advocate.'
+• Where your professional work has been featured - showcase your skills and
+projects together:
+e.g. 'You can find my documentation in the Adafruit Learn System and on
+GitHub.'
+e.g. 'I am a CircuitPython developer, and you can find my contributions in the
+Adafruit CircuitPython libraries.'
+• Professional goals:
+e.g. 'I want to be a senior software architect.'
+e.g. 'My goal is to create software & hardware solutions that are accessible
+world-wide and can help many people.'
+There are definitely ways to expand upon what's laid out here. This should get you
+going.
+1. Nuxtocat
+1. Nuxtocat /n 2. Labtocat /n 3.Pythocat /n 4.Yogitocat

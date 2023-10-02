@@ -28,6 +28,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjZbPEyOT2M44rN4lq98kNQ)
 
 <!-- Add your tech stack and skills -->
+<!-- Find better icon packs -->
 ## 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,8 +43,15 @@ I am constantly striving to reach new heights in my personal and professional gr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
 
+
+<!-- Do, something about this. -->
+<!-- My medium blogs -->
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1" alt="Recent Article 2"> 
+
 <!-- Add your project details -->
-## 🚀 Projects
+<!-- ## 🚀 Projects -->
 <!-- Add details about your projects, such as descriptions, technologies used, and links to repositories or project pages -->
 
 <!-- Add any additional sections or content you want -->
@@ -97,20 +105,14 @@ I am constantly striving to reach new heights in my personal and professional gr
         <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Github Stats" />
 </p>
 
-
 ---
-
-
-
-
-
 
 <!-- Add your https://nitkarshchourasia.github.io/ link to every other clickables. -->
 
 
 <!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
 
-<img src="gifs_files/gip123hy.gif" alt="python_gif_symbol" width="50" style="float: right;">
+<img src="assets/gip123hy.gif" alt="python_gif_symbol" width="50" style="float: right;">
 
 <!-- Add any other text or content below the image -->
 
@@ -122,3 +124,29 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
 <!-- End of document -->
+
+<!-- Embed image below from assets directory named "ROI_DSA.png" -->
+
+<img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
+
+### My Efficiency Bootlenecks:
+
+My Efficiency Bootlenecks:<br/>
+Shorts<br/>
+Porn<br/>
+Masturbation<br/>
+Youtube Binge Watching and not applying the learnings and wisdoms.<br/>
+Remniscing the Heartbreaks<br/>
+Perfection<br/>
+No Exercise<br/>
+Searching for the social bond or that special social bond connection on all over the Internet.<br/>
+
+Few Examples would be:<br/>
+    Reddit<br/>
+    Instagram<br/>
+    Xhamster<br/>
+    Tinder<br/><br/>
+
+Chasing things  <br/>
+# Rate of Return?????!!! <br/>
+<!-- Finally End of Document -->
