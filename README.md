@@ -128,6 +128,10 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!-- End of document -->
 
+<!-- Embed image below from assets directory named "ROI_DSA.png" -->
+
+<img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
+
 ### My Efficiency Bootlenecks:
 
 My Efficiency Bootlenecks:<br/>
