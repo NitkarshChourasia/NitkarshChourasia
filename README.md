@@ -89,7 +89,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Made with ❤️ by Nitkarsh -->
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/my_introduction.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/my_introduction.svg" alt="Waves" />
 </p>
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
@@ -104,7 +104,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Waves" />
 </p>
 
 ---
