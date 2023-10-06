@@ -44,6 +44,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
 <!-- Holopin Stickers -->
 [![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitkarshchourasia)](https://holopin.io/@nitkarshchourasia)
+[![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitkarshchourasia)](https://holopin.io/@nitkarshchourasia)
 
 
 <!-- Do, something about this. -->
