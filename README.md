@@ -1,21 +1,18 @@
-![Header Image](assets/github-header-image(8).png)
+# ![Header Image](assets/github-header-image(8).png)
 
-
-
-<!--
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/hello-animated-color-scheme.svg" alt="Github Stats" />
+        <img src="./assets/../directories/assets/hello-animated-color-scheme.svg" alt="Github Stats" />
 </p>
--->
 <!-- Can I add all this data into this svg file above???!, I want to add it. -->
 
-
 <!-- Add your introduction or personal statement here -->
-# 💫 About Me
+## 💫 About Me
+
 I am constantly striving to reach new heights in my personal and professional growth. I prioritize self-improvement and love pushing boundaries to achieve excellence.
 
 <!-- Add links to your CV, resume, project details, and skills -->
 ## 🌐 Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nitkarsh.chourasia.3/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitkarsh.chourasia/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitkarsh-chourasia-a32a21218/)
@@ -30,14 +27,17 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Add your tech stack and skills -->
 <!-- Find better icon packs -->
 ## 💻 Tech Stack
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 <!-- Add more badges for the technologies you work with -->
 
 <!-- Add your GitHub stats and top languages -->
 ## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -45,13 +45,11 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Holopin Stickers -->
 [![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitkarshchourasia)](https://holopin.io/@nitkarshchourasia)
 
-
-<!-- Do, something about this. -->
 <!-- My medium blogs -->
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0" alt="Recent Article 0"> 
+<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/0" alt="Recent Article 0"> 
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@playnitkarsh/1" alt="Recent Article 2"> 
-
+-->
 <!-- Add your project details -->
 <!-- ## 🚀 Projects -->
 <!-- Add details about your projects, such as descriptions, technologies used, and links to repositories or project pages -->
@@ -83,34 +81,27 @@ I am constantly striving to reach new heights in my personal and professional gr
 ## Hello
 -->
 
-<!-- Made with ❤️ Nitkarsh -->
-
-<!-- Add any attribution or credits if needed -->
-<!-- Made with ❤️ by Nitkarsh -->
-
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/my_introduction.svg" alt="Waves" />
+        <img src="./assets/../svg_files/my_introduction.svg" alt="Waves" />
 </p>
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
 
 <!--
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/Bottom.svg" alt="Github Stats" />
+        <img src="assets/../svg_files/Bottom.svg" alt="Github Stats" />
+</p>
+
+--- ;
+-->
+
+<p align="center">
+        <img src="./assets/animated-wave.svg" alt="Waves" />
 </p>
 
 --- 
--->
-
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Waves" />
-</p>
-
----
 
 <!-- Add your https://nitkarshchourasia.github.io/ link to every other clickables. -->
-
 
 <!-- Use HTML <img> tag to set the width while maintaining aspect ratio -->
 
@@ -118,44 +109,25 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!-- Add any other text or content below the image -->
 
-
 <!--### Some Meme's-->
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="marquee.svg" />
 <!-- View count -->
 
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)(Visitor's Count)
 
 <!-- End of document -->
 
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
-<!--
-### My Efficiency Bootlenecks:
--->
-<!--
-My Efficiency Bootlenecks:<br/>
-Shorts<br/>
-Porn<br/>
-Masturbation<br/>
-Youtube Binge Watching and not applying the learnings and wisdoms.<br/>
-Remniscing the Heartbreaks<br/>
-Perfection<br/>
-No Exercise<br/>
-Searching for the social bond or that special social bond connection on all over the Internet.<br/>
-<!--
-Few Examples would be:<br/>
-    Reddit<br/>
-    Instagram<br/>
-    Xhamster<br/>
-    Tinder<br/><br/>
-<!--
-Chasing things  <br/>
--->
--->
-<!--
-# Rate of Return?????!!! <br/>
-# Return on Investment?????!!! <br/>
--->
-## To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__.
+---
+### My notes section so I can view it n numbers of time to internalise it
+
+#### Rate of Return?????!!!
+
+#### Return on Investment?????!!!
+
+### To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__
 <!-- Finally End of Document -->
+
+<!-- Made with ❤️ by Nitkarsh -->
