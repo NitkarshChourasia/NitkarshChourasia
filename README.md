@@ -42,6 +42,8 @@ I am constantly striving to reach new heights in my personal and professional gr
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NitkarshChourasia&theme=highcontrast&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NitkarshChourasia&theme=chartreuse-dark)](https://github.com/NitkarshChourasia/github-readme-activity-graph)
+<!-- Holopin Stickers -->
+[![An image of @nitkarshchourasia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nitkarshchourasia)](https://holopin.io/@nitkarshchourasia)
 
 
 <!-- Do, something about this. -->
@@ -87,7 +89,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Made with ❤️ by Nitkarsh -->
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/my_introduction.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/my_introduction.svg" alt="Waves" />
 </p>
 
 <h1 align='center'>⚡️<i>⚡️Being Pragmatic Is The Way!⚡️</i>⚡️</h1>
@@ -102,7 +104,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/main/assets/animated-wave.svg" alt="Waves" />
 </p>
 
 ---
@@ -128,9 +130,10 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
-
+<!--
 ### My Efficiency Bootlenecks:
-
+-->
+<!--
 My Efficiency Bootlenecks:<br/>
 Shorts<br/>
 Porn<br/>
@@ -140,13 +143,19 @@ Remniscing the Heartbreaks<br/>
 Perfection<br/>
 No Exercise<br/>
 Searching for the social bond or that special social bond connection on all over the Internet.<br/>
-
+<!--
 Few Examples would be:<br/>
     Reddit<br/>
     Instagram<br/>
     Xhamster<br/>
     Tinder<br/><br/>
-
+<!--
 Chasing things  <br/>
+-->
+-->
+<!--
 # Rate of Return?????!!! <br/>
+# Return on Investment?????!!! <br/>
+-->
+## To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__.
 <!-- Finally End of Document -->
