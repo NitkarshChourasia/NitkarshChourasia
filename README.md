@@ -130,9 +130,10 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
-
+<!--
 ### My Efficiency Bootlenecks:
-
+-->
+<!--
 My Efficiency Bootlenecks:<br/>
 Shorts<br/>
 Porn<br/>
@@ -142,15 +143,19 @@ Remniscing the Heartbreaks<br/>
 Perfection<br/>
 No Exercise<br/>
 Searching for the social bond or that special social bond connection on all over the Internet.<br/>
-
+<!--
 Few Examples would be:<br/>
     Reddit<br/>
     Instagram<br/>
     Xhamster<br/>
     Tinder<br/><br/>
-
+<!--
 Chasing things  <br/>
+-->
+-->
+<!--
 # Rate of Return?????!!! <br/>
 # Return on Investment?????!!! <br/>
+-->
 ## To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__.
 <!-- Finally End of Document -->
