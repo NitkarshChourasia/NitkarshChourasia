@@ -110,7 +110,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Add any other text or content below the image -->
 
 <!--### Some Meme's-->
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
 <!-- View count -->
 
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)(Visitor's Count)
