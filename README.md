@@ -128,6 +128,9 @@ I am constantly striving to reach new heights in my personal and professional gr
 #### Return on Investment?????!!!
 
 ### To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__
+
+### "Programming is nothing without business" by one of my friend - Kirill Dubovitskiy (bra1nDump)
+
 <!-- Finally End of Document -->
 
 <!-- Made with ❤️ by Nitkarsh -->
