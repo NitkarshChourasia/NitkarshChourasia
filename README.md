@@ -131,6 +131,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 ### "Programming is nothing without business" by one of my friend - Kirill Dubovitskiy (bra1nDump)
 
+### "The magic you are looking for is the work you are avoiding." 
 <!-- Finally End of Document -->
 
 <!-- Made with ❤️ by Nitkarsh -->
