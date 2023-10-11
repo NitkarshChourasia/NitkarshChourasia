@@ -117,14 +117,13 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
 
 
-(Visitor's Count)
+<!-- (Visitor's Count) -->
 
 <!-- End of document -->
 
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
----
 
 ### My notes section so I can view it n numbers of time to internalise it
 
