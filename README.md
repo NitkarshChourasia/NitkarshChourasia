@@ -25,6 +25,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjZbPEyOT2M44rN4lq98kNQ)
 
 <!-- Add your tech stack and skills -->
+
 <!-- Find better icon packs -->
 ## 💻 Tech Stack
 
@@ -113,7 +114,10 @@ I am constantly striving to reach new heights in my personal and professional gr
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
 <!-- View count -->
 
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)(Visitor's Count)
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
+
+
+(Visitor's Count)
 
 <!-- End of document -->
 
@@ -121,6 +125,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
 ---
+
 ### My notes section so I can view it n numbers of time to internalise it
 
 #### Rate of Return?????!!!
