@@ -112,6 +112,9 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!--### Some Meme's-->
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
+
+![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
+
 <!-- View count -->
 
 [![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
