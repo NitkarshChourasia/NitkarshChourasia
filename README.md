@@ -25,6 +25,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCjZbPEyOT2M44rN4lq98kNQ)
 
 <!-- Add your tech stack and skills -->
+
 <!-- Find better icon packs -->
 ## 💻 Tech Stack
 
@@ -111,16 +112,22 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!--### Some Meme's-->
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
+
+![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
+
 <!-- View count -->
 
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)(Visitor's Count)
+[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
+
+
+<!-- (Visitor's Count) -->
 
 <!-- End of document -->
 
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
----
+
 ### My notes section so I can view it n numbers of time to internalise it
 
 #### Rate of Return?????!!!
@@ -128,6 +135,10 @@ I am constantly striving to reach new heights in my personal and professional gr
 #### Return on Investment?????!!!
 
 ### To quote Issac Newton, "if I have seen further, it is by standing on the shoulders of Giants." - thus, a __Recursion__
+
+### "Programming is nothing without business" by one of my friend - Kirill Dubovitskiy (bra1nDump)
+
+### The quote that I've fallen in love with: "The magic you are looking for is in the work YOU are avoiding." 
 <!-- Finally End of Document -->
 
 <!-- Made with ❤️ by Nitkarsh -->
