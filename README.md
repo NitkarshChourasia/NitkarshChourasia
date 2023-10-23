@@ -126,9 +126,11 @@ I am constantly striving to reach new heights in my personal and professional gr
 
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
-<img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
 
-### My notes section so I can view it n numbers of time to internalise it
+<details open>
+
+<img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
+<summary> My notes section so I can view it n numbers of time to internalise it.</summary>
 
 #### Rate of Return?????!!!
 
@@ -139,6 +141,11 @@ I am constantly striving to reach new heights in my personal and professional gr
 ### "Programming is nothing without business" by one of my friend - Kirill Dubovitskiy (bra1nDump)
 
 ### The quote that I've fallen in love with: "The magic you are looking for is in the work YOU are avoiding." 
+</details>
 <!-- Finally End of Document -->
 
 <!-- Made with ❤️ by Nitkarsh -->
+
+<br>
+<br>
+<p align=center style="color: #444444; font-size: 20px">End of README.md</p>
