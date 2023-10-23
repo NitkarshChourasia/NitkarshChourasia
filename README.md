@@ -127,7 +127,7 @@ I am constantly striving to reach new heights in my personal and professional gr
 <!-- Embed image below from assets directory named "ROI_DSA.png" -->
 
 
-<details open>
+<details>
 
 <img src="assets/ROI_DSA.png" alt="ROI_DSA" width="100%" style="float: right;">
 <summary> My notes section so I can view it n numbers of time to internalise it.</summary>
