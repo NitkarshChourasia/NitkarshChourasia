@@ -163,7 +163,7 @@ I am constantly striving to reach new heights in my personal and professional gr
   
 - Python Libraries learning (numerous)
   
-        - Everything I can get my hands on (Pragmatic)
+    - Everything I can get my hands on (Pragmatic)
   
 - Machine Learning
   
