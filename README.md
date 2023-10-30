@@ -146,19 +146,33 @@ I am constantly striving to reach new heights in my personal and professional gr
 <details>
         <summary>Currently Working On:</summary>
 - To Become God in C++
+        
 - To Become Mahadev in Python
+  
 - To become a Hashmap Bender of C# Programming Language in Style
+  
 - To Become the Almighty in JavaScript, CSS, HTML
+  
 - Learning Django
+  
 - Learning Flask
+  
 - Learning Node.js
+  
 - Learning Full Stack and Backend
+  
 - Python Libraries learning (numerous)
+  
         - Everything I can get my hands on (Pragmatic)
+  
 - Machine Learning
+  
 - Generative AI
+  
 - Prompt Enginnering
+  
 - Bots (different kinds)
+  
 - Creating a library to be published on Pip Install {my_library}
 
 Thank You - If you have read so far.
