@@ -143,6 +143,8 @@ I am constantly striving to reach new heights in my personal and professional gr
 ### The quote that I've fallen in love with: "The magic you are looking for is in the work YOU are avoiding." 
 
 ### "THE BEST CODE IS NO CODE AT ALL" - JEFF ATWOOD
+
+### Learn, do learn but from time to time remember to Unlearn, constantly, too...
 </details>
 
 <details>
