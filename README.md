@@ -97,7 +97,7 @@ I am Nitkarsh Chourasia, a developer who likes turning curiosity into working so
 ## GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=github" alt="Nitkarsh Chourasia GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NitkarshChourasia&theme=radical&hide_border=true&show_icons=true&rank_icon=github" alt="Nitkarsh Chourasia GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitkarshChourasia&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Nitkarsh Chourasia top languages" />
   <br />
   <img height="165" src="https://streak-stats.demolab.com?user=NitkarshChourasia&theme=radical&hide_border=true" alt="Nitkarsh Chourasia GitHub streak" />
